@@ -39,6 +39,26 @@ dependencies:
   geolocator: ^10.1.0
   geocoding: ^2.1.1
   permission_handler: ^11.0.0
+  
+  # File management packages
+  path_provider: ^2.1.1
+  
+  # Network packages
+  http: ^1.1.0
+  
+  # Audio packages (Sprint 2) - Temporairement désactivés pour résoudre les conflits
+  # speech_to_text: ^6.6.0
+  # flutter_tts: ^3.8.5
+  # record: ^5.0.4
+  # audioplayers: ^5.2.1
+  
+  # Sharing packages (Sprint 2) - Versions compatibles
+  share_plus: ^7.2.1
+  qr_flutter: ^4.1.0
+  # image_picker: ^1.0.5  # Temporairement désactivé
+  
+  # Additional utilities
+  shared_preferences: ^2.2.0
 
 dev_dependencies:
   flutter_test:

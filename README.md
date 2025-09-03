@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# tools_sandbox
-App Fluter de test de fonctionnalité
-=======
 # Toolbox Sandbox App
 
 Application mobile Flutter "bac à sable" pour l'apprentissage du développement mobile et l'exploration des fonctionnalités natives des appareils.
@@ -235,4 +231,3 @@ Pour toute question ou problème :
 ---
 
 **Happy Coding! 🚀**
->>>>>>> da41638 (Premier commit de mon app flutter de test bac a sable)
